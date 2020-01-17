@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class ForTestTest {
 	
-	protected static ForTest forTest = new ForTest();
+	protected static ForTest forTest =   new ForTest();
 	
 	@Test
 	public void demo() throws Exception {
