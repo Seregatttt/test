@@ -8,7 +8,7 @@ public class ForTestTest {
 	
 	@Test
 	public void demo() throws Exception {
-		forTest.setDemo("ttt");
+		forTest.setDemo("ttt ");
 		System.out.println(forTest.getDemo());
 	}
 }
