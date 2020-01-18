@@ -2,7 +2,7 @@ package com.foreach;
 
 import java.util.function.Consumer;
 
-//Реализация интерфейса Consumer br5
+//Реализация интерфейса Consumer br5 1
 class MyConsumer implements Consumer<Integer> {
 	
 	public void accept(Integer t) {
