@@ -9,12 +9,6 @@ public class ForTestTest {
 	@Test
 	public void demo() throws Exception {
 		forTest.setDemo("ttt");
-		// br1
-		// br1
-		// br3
-		// br333
-		// br4
-		// br4
 		System.out.println(forTest.getDemo());
 	}
 }
