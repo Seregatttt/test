@@ -10,4 +10,4 @@ uat2
 new prep
 
 
-new fuature
+new feature
