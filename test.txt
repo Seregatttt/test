@@ -7,4 +7,4 @@ prep2
 
 uat2
 
-new fuature
+new feature
